@@ -1,6 +1,6 @@
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
+//person.java with sql connection
 public class Person 
 {
 	private static String username = "root";
