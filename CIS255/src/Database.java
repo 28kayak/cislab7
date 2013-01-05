@@ -9,7 +9,8 @@ import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+//programed by kaya 
+//cis 255 lab7 fall 2012
 public class Database {
 	public static final String URL_MYSQL5 = "jdbc:mysql://%s:3306/%s";
 	public final static int MSSQL5 = 1;
