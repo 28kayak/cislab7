@@ -1,6 +1,8 @@
 import java.sql.ResultSet;
 import java.sql.SQLException;
 //person.java with sql connection
+//programed by kaya 
+//cis 255 lab7 fall 2012
 public class Person 
 {
 	private static String username = "root";
